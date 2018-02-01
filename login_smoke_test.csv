@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1517526712318,275,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33144,1478,1,1,69,0,0
+1517526713129,850,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33120,1520,1,1,128,0,0
+1517526714827,282,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33296,1516,1,1,87,0,0
+1517526715705,240,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33185,1520,1,1,69,0,0
+1517526716800,257,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33209,1526,1,1,73,0,0
+1517526717688,300,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33237,1534,1,1,94,0,0
+1517526718794,253,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33397,1518,1,1,67,0,0
+1517526719632,238,Loging in,200,OK,Login test 1-1,text,true,SMOKE_TEST_PASSED,33363,1530,1,1,67,0,0
